@@ -4,7 +4,7 @@
 A production-grade, highly available multi-tier web application hosted on AWS. This project demonstrates the design and implementation of a secure, scalable, and fault-tolerant architecture that spans two Availability Zones, adhering to AWS Well-Architected Framework best practices.
 
 ## 🏗️ Architecture Diagram
-![Architecture Diagram](./architecture/architecture-diagram.png)
+![Architecture Diagram](./architecture/architecture-diagram.png.png)
 
 ## 🎯 Requirements Covered
 1. **Networking:** VPC `10.0.0.0/16` with 2 Public and 2 Private Subnets across 2 AZs.
