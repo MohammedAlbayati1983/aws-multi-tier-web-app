@@ -42,3 +42,5 @@ A production-grade, highly available multi-tier web application hosted on AWS. T
 ├── infrastructure-as-code/
 │   └── terraform/         # (Planned) Terraform implementation
 └── testing/               # Connectivity & validation tests
+```
+
